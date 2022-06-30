@@ -1,4 +1,4 @@
-# Site Web - Animais - Curso Origamid
+# Website - Animais - Curso Origamid
 - Página Web 100% responsiva com intuito da melhor prática do JavaScript
 
 ## Tecnologias utilizadas no projeto
